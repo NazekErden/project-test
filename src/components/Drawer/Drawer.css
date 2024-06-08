@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+  .menu {
+    width: 75% !important;
+    z-index: 50;
+  }
+  .avatar-user {
+    display: none;
+  }
+}

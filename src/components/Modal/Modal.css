@@ -1,0 +1,19 @@
+.modal-check .label {
+  justify-content: left;
+}
+.modal-check .label span {
+  padding-left: 8px;
+}
+.btn-green {
+  background-color: limegreen;
+  color: #fff;
+}
+.modal-check {
+  background-color: #fff;
+  width: 100%;
+  z-index: 2;
+}
+.modal-box {
+  max-height: auto;
+  height: auto;
+}
